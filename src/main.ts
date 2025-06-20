@@ -6,4 +6,3 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   </div>
 `;
 
-console.log("Hello TS");
